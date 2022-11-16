@@ -1,3 +1,3 @@
 # Neko
 Discord
-test
+/cat
